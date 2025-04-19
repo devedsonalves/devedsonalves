@@ -7,6 +7,6 @@ Hello, I'm Edson Alves 👋🏻
 
 
 **Software Developer focused on delivering well-structured and high-impact solutions.**  
-I work with **TypeScript, Node.js, ReactJS, Next.js, and React Native**, always aiming to build scalable, efficient applications with clean and maintainable code.
+I work with **TypeScript, Node.js, ReactJS, and React Native**, always aiming to build scalable, efficient applications with clean and maintainable code.
 
 I'm driven by continuous learning and believe in the power of technology as a tool for transformation. I'm always looking to grow technically and contribute to meaningful projects that create real value.
