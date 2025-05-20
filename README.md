@@ -10,6 +10,6 @@ I am search ever building scalable, performant applications using TypeScript, No
 
 With a passion for continuous learning, I’m constantly exploring new tools, technologies, and methodologies to improve my craft. I believe software should be more than functional, it should be reliable, maintainable, and empowering to its users.
 
-Whether I’m contributing to open-source projects, collaborating with teams, or working on personal ideas, I strive to create solutions that are not only technically sound but also aligned with real-world needs. 
+Whether I’m contributing to open-source projects, collaborating with teams, or working on personal ideas, I strive to create solutions that are not only technically sound but also aligned with real-world needs.
 
 Let’s build something meaningful together 🚀
