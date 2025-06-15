@@ -1,4 +1,4 @@
-Hello, I'm Edson Alves 👋🏻
+Hey, I'm Edson Alves
 ---
 
 [![Twitter Badge](https://img.shields.io/badge/-Website%20|%20devedsonalves-0047b5?style=flat-square&logo=Twitter&logoColor=white&link=https://devedsonalves.vercel.app)](https://devedsonalves.vercel.app) 
@@ -12,4 +12,4 @@ With a passion for continuous learning, I’m constantly exploring new tools, te
 
 Whether I’m contributing to open-source projects, collaborating with teams, or working on personal ideas, I strive to create solutions that are not only technically sound but also aligned with real-world needs.
 
-Let’s build something meaningful together 🚀
+Let’s build something meaningful together :)
