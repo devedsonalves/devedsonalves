@@ -1,59 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=35&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=220&section=header&text=Edson%20Alves&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Software%20Developer%20%7C%20Web%20%7C%20Mobile%20%7C%20Automation&descAlignY=55&descSize=16&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
+### Building clean, modern and useful digital experiences.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://devedsonalves.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K&logoColor=white)](https://www.linkedin.com/in/edson4lves/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson4lves/)
 [![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devedsonalves)
 [![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devedsonalves@gmail.com)
 
 </div>
 
-## 👨‍💻 About me
+---
 
-Hello! I'm **Edson Alves**, a passionate developer focused on building modern, clean and efficient digital solutions.
+## 👨‍💻 About Me
 
-I work with **Web Development**, **Mobile Applications**, **UI/UX Design** and **Automations**, always looking to create useful and elegant experiences.
+Hi! I'm **Edson Alves**, a developer passionate about creating modern, efficient and intuitive digital products.
 
-- 🎓 Student / Developer
-- 💻 Web & App Development
-- 🎨 UI/UX Design
-- ⚙️ Automation enthusiast
-- 🚀 Always learning new technologies
+My main interests are **Web Development**, **Mobile Applications**, **UI/UX**, **Automation** and building solutions that combine good design with clean code.
 
-## 🛠 Technologies
-
-<div align="center">
-  
-  ![HTML](https://img.shields.io/badge/HTML-111?style=for-the-badge&logo=html5)
-  ![CSS](https://img.shields.io/badge/CSS-111?style=for-the-badge&logo=css3)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
-  ![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
-  ![Next.js](https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=nextdotjs)
-  ![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs)
-  ![Tailwind](https://img.shields.io/badge/TailwindCSS-111?style=for-the-badge&logo=tailwindcss)
-  ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devedsonalves&theme=github-dark&hide_border=true&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff" />
-
-</div>
-
-<div align="center">
-
-```txt
-"Code, design and automation to build better digital experiences."
+```ts
+const edson = {
+  role: "Software Developer",
+  focus: ["Web", "Mobile", "UI/UX", "Automation"],
+  currentlyLearning: true,
+  mindset: "Build. Learn. Improve."
+};
 ```
 
-</div> 
+- 🎓 Computer Science student
+- 💻 Web & Mobile Developer
+- 🎨 Interested in UI/UX and product design
+- ⚙️ Building automations and productivity solutions
+- 🚀 Constantly exploring new technologies
+- 📚 Focused on turning ideas into real products
+
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<div align="left">
+
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+
+</div>
+
+### Backend & Tools
+
+<div align="left">
+
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=devedsonalves&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devedsonalves&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
+
+</div>
+
+
+## 🤝 Let's Connect
+
+I'm always interested in **new technologies, interesting projects and opportunities to build useful products**.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Visit_my_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devedsonalves.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson4lves/)
+
+<br>
+
+### `Code • Design • Automate • Build`
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=120&section=footer" />
+
+</div>
