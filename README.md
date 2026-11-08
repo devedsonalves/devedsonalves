@@ -23,15 +23,25 @@ Computer Science student passionate about software development, UI/UX and automa
 
 Interested in building useful products with modern technologies, combining functionality, simplicity and design.
 
-### Technologies
+### Main Stack
 
-**Frontend**
-
-HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS
-
-**Backend & Tools**
-
-Node.js · Python · AWS · Docker · Terraform · CI/CD · Git · GitHub 
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nest" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=120&section=footer" />
